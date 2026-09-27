@@ -1,0 +1,10 @@
+discord.py
+pillow
+aiohttp
+qrcode
+topggpy
+pilmoji
+emoji
+opencv-python
+python-whois
+mathparse
